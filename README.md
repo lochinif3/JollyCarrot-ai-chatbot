@@ -1,4 +1,4 @@
-# JOLLY CARROT CHATBOT
+# JollyCarrot Chatbot
 A Discord based, simple AI chatbot that you can directly use for any domain from rabbits to recipes without reinventing the wheel.
 
 ### Prerequisites
