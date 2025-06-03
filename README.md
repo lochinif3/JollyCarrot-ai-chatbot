@@ -22,6 +22,6 @@ A Discord based, simple AI chatbot that you can directly use for any domain from
 ### Run the Bot
   - Launch the bot script (JollyCarrot.ipynb) and invite it to your Discord server.
 
-
+[Detailed instructions on Medium](https://medium.com/@lochiniff/d8fd0b20ff6a)
 
 
