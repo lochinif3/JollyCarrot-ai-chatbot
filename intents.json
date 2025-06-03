@@ -1,0 +1,181 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi there",
+        "How are you",
+        "Is anyone there?",
+        "Hey",
+        "Hello",
+        "Good day",
+        "yo"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again",
+        "Hi, how can I help with your rabbit care?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Get lost",
+        "Till next time",
+        "byebye"
+      ],
+      "responses": [
+        "See you!",
+        "Have a nice day",
+        "Bye! Come back soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Awesome, thanks",
+        "Thanks for helping me"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure."
+      ]
+    },
+    {
+      "tag": "noanswer",
+      "patterns": [],
+      "responses": [
+        "Sorry, I can't understand you.",
+        "Please give me more information.",
+        "Not sure I understand."
+      ]
+    },
+    
+    {
+      "tag": "jokes",
+      "patterns": [
+        "Tell me a joke",
+        "Joke",
+        "Make me laugh"
+      ],
+      "responses": [
+        "Why do rabbits never get tired? Because they get a lot of rest.",
+        "What do you call a rabbit with fleas? Bugs Bunny!",
+        "Why was the rabbit so happy? Because somebunny loved him."
+      ]
+    },
+    {
+      "tag": "identity",
+      "patterns": [
+        "Who are you?",
+        "What are you?",
+        "Tell me about yourself"
+      ],
+      "responses": [
+        "I am JollyCarrot, your smart rabbit feeder assistant!",
+        "I'm JollyCarrot, here to help with your rabbit care."
+      ]
+    },
+    {
+      "tag": "options",
+      "patterns": [
+        "How can you help me?",
+        "What can you do?",
+        "What help do you provide?",
+        "How can you be helpful?",
+        "What support is offered?"
+      ],
+      "responses": [
+        "I provide rabbit care tips, monitor home conditions, and tell jokes!",
+        "I'm here to help with rabbit care and provide advice."
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "lol",
+        "haha",
+        "lmao",
+        "ahahahahaha",
+        "that was funny"
+      ],
+      "responses": [
+        ":)",
+        "Glad I made you laugh!"
+      ]
+    },
+    {
+      "tag": "activity",
+      "patterns": [
+        "What are you doing?",
+        "What are you up to?",
+        "wyd",
+        "whatchu doing"
+      ],
+      "responses": [
+        "Talking to you and making sure your rabbits are well taken care of!"
+      ]
+    },
+    {
+      "tag": "appreciate",
+      "patterns": [
+        "You are awesome",
+        "You are the best",
+        "You are great",
+        "You are good",
+        "Nice work",
+        "Nice"
+      ],
+      "responses": [
+        "Thank you!",
+        "Glad to be of help!"
+      ]
+    },
+    {
+      "tag": "riddle",
+      "patterns": [
+        "Ask me a riddle",
+        "Ask me a question",
+        "Riddle"
+      ],
+      "responses": [
+        "What do you call a rabbit who tells jokes? A funny bunny!",
+        "What is a rabbit's favorite dance style? Hip-hop!",
+        "Why did the rabbit go to the barber? For a harecut!"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "How old are you?",
+        "When were you made?",
+        "What is your age?"
+      ],
+      "responses": [
+        "I was created in 2024 to help with rabbit care!",
+        "I'm as old as the latest technology in rabbit care, from 2024!"
+      ]
+    },
+    
+    {
+      "tag": "visit_rabbits",
+      "patterns": [
+        "How can I visit the rabbits?",
+        "I want to see the rabbits",
+        "Tell me how to visit the rabbits"
+      ],
+      "responses": [
+        "Schedule an appointment through our website.",
+        "Visit us at 123 Bunny Lane, 9 AM to 5 PM.",
+        "Join our live virtual tour every Saturday at 3 PM."
+      ]
+    }
+  ]
+}
